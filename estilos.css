@@ -1,0 +1,38 @@
+
+/*
+regla usando #, para invocar esta regla se usa id en HTML
+*/
+.fondo{
+    float: left;
+    width: 50%;
+    background-color: black;
+    color: white;
+}
+
+/*
+ clase o regla usando . 
+ Para invocar esta regla se usa class en HTML
+*/
+.encender{
+    background-color: green;
+}
+
+.apagar{
+    background-color: red;
+}
+
+.centrar{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.fondo-dot{
+    height: 23px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
